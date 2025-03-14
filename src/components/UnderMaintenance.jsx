@@ -54,7 +54,7 @@ const UnderMaintenance = () => {
       </div>
 
       {/* Contact or additional info */}
-      <p className="text-sm text-gray-500">For inquiries, please contact us at <a href="mailto:support@example.com" className="text-blue-500">support@example.com</a>.</p>
+      <p className="text-sm text-gray-500">For inquiries, please contact us at <a href="mailto:support@karibumnadani.co.tz" className="text-blue-500">support@karibumnadani.co.tz</a>.</p>
     </div>
   );
 };
