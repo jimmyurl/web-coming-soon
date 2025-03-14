@@ -43,7 +43,7 @@ const UnderMaintenance = () => {
       {/* Social media links */}
       <div className="flex gap-6 mb-8"> 
   <a href="https://x.com" className="text-blue-500 hover:text-blue-700 transition duration-300">
-    <i className="fab fa-twitter text-2xl"></i>
+    <i className="fab fa-x text-2xl"></i>
   </a>
 
         <a href="https://facebook.com" className="text-blue-500 hover:text-blue-700 transition duration-300">
