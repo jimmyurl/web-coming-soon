@@ -1,4 +1,3 @@
-Thank you for the clarification! Based on the description of **MNADANI COMPANY LIMITED**, I’ll craft a `README.md` tailored to your company and services. Here's a draft that you can use:
 
 ---
 
@@ -70,11 +69,3 @@ For more information or to schedule an asset disposal assessment, please contact
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-### Notes:
-- Adjust the contact details and any specific services if necessary.
-- Ensure the links (e.g., email, website) are up-to-date and functional.
-- If you want to include more detailed instructions for customers or partners, feel free to expand the **How It Works** section. 
-
-Let me know if you need additional modifications!
