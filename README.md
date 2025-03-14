@@ -61,9 +61,9 @@ We provide full reports on the disposed assets for **transparency and accountabi
 
 For more information or to schedule an asset disposal assessment, please contact us:
 
-- **Email**: [info@mnadani.co.tz](mailto:info@mnadani.co.tz)
-- **Phone**: +255 123 456 789
-- **Website**: [www.mnadani.co.tz](http://www.mnadani.co.tz)
+- **Email**: [support@karibumnadani.co.tz](mailto:support@karibumnadani.co.tz)
+- **Phone**: +255 712462029
+- **Website**: [www.karibumnadani.co.tz](http://www.karibumnadani.co.tz)
 
 ## License
 
